@@ -8,7 +8,7 @@ namespace Palindrome
         static void Main(string[] args)
         {
             Console.WriteLine($"Método 1 (madam): {IsPalindrome("madam")}");
-            Console.WriteLine($"Método 1 (music):{IsPalindrome("music")}");
+            Console.WriteLine($"Método 1 (music): {IsPalindrome("music")}");
             Console.WriteLine($"Método 2 (madam): {IsPalindrome("madam")}");
             Console.WriteLine($"Método 2 (music): {IsPalindrome("music")}");
         }
