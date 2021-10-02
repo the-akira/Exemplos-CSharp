@@ -2,7 +2,16 @@
 
 ![img](https://raw.githubusercontent.com/the-akira/Exemplos-CSharp/master/Avatar.png)
 
-## Contéudo
+## Sobre a Linguagem C#
+
+- [Introdução](https://github.com/the-akira/ExemplosCSharp/blob/master/C%23.pdf)
+- [Documentação](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Exemplos de Aplicações de Console](https://www.csharp-console-examples.com/)
+- [Exemplos Diversos](https://www.dotnetperls.com/)
+- [CheatSheet](https://www.codecademy.com/learn/learn-c-sharp/modules/csharp-hello-world/cheatsheet)
+- [Tutoriais](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
+
+## Exemplos de Códigos
 
 - [Average](https://github.com/the-akira/Exemplos-CSharp/blob/master/Code/Average/Program.cs)
 - [Binary Search](https://github.com/the-akira/Exemplos-CSharp/blob/master/Code/BinarySearch/Program.cs)
