@@ -6,7 +6,7 @@
 
 - [Introdução](https://github.com/the-akira/ExemplosCSharp/blob/master/C%23.pdf)
 - [Documentação](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [Exemplos de Aplicações de Console](https://www.csharp-console-examples.com/)
+- [Exemplos de Aplicações](https://www.csharp-console-examples.com/)
 - [Exemplos Diversos](https://www.dotnetperls.com/)
 - [CheatSheet](https://www.codecademy.com/learn/learn-c-sharp/modules/csharp-hello-world/cheatsheet)
 - [Tutoriais](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
