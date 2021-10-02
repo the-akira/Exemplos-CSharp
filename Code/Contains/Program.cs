@@ -7,7 +7,7 @@ namespace Contains
     {
         static void Main(string[] args)
         {
-            string[] alimentos = { "feijão", "arroz", "batata", "cenoura", "pão"};
+            string[] alimentos = { "feijão", "arroz", "batata", "cenoura", "pão" };
             string alimento = "arroz";
             bool temArroz = alimentos.Contains(alimento);
 
