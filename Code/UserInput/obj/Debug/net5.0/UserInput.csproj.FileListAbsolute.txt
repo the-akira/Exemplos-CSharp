@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/UserInput
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/UserInput.deps.json
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.json
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/UserInput.dll
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/ref/UserInput.dll
+/home/akira/Documentos/C#/Code/UserInput/bin/Debug/net5.0/UserInput.pdb
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.dll
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/ref/UserInput.dll
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.pdb
+/home/akira/Documentos/C#/Code/UserInput/obj/Debug/net5.0/UserInput.genruntimeconfig.cache

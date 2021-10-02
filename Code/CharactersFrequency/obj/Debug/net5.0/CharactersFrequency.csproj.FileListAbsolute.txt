@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/CharactersFrequency
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/CharactersFrequency.deps.json
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/CharactersFrequency.runtimeconfig.json
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/CharactersFrequency.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/CharactersFrequency.dll
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/ref/CharactersFrequency.dll
+/home/akira/Documentos/C#/Code/CharactersFrequency/bin/Debug/net5.0/CharactersFrequency.pdb
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.dll
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/ref/CharactersFrequency.dll
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.pdb
+/home/akira/Documentos/C#/Code/CharactersFrequency/obj/Debug/net5.0/CharactersFrequency.genruntimeconfig.cache

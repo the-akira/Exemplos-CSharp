@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/Enums
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/Enums.deps.json
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/Enums.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/Enums.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/Enums.dll
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/ref/Enums.dll
+/home/akira/Documentos/C#/Code/Enums/bin/Debug/net5.0/Enums.pdb
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.dll
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/ref/Enums.dll
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.pdb
+/home/akira/Documentos/C#/Code/Enums/obj/Debug/net5.0/Enums.genruntimeconfig.cache

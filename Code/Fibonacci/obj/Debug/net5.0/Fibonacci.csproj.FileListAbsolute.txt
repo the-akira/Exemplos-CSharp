@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/Fibonacci
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/Fibonacci.deps.json
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/Fibonacci.dll
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/ref/Fibonacci.dll
+/home/akira/Documentos/C#/Code/Fibonacci/bin/Debug/net5.0/Fibonacci.pdb
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.dll
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/ref/Fibonacci.dll
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.pdb
+/home/akira/Documentos/C#/Code/Fibonacci/obj/Debug/net5.0/Fibonacci.genruntimeconfig.cache

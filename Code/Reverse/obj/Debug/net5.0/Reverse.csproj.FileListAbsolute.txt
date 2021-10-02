@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/Reverse
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/Reverse.deps.json
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/Reverse.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/Reverse.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/Reverse.dll
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/ref/Reverse.dll
+/home/akira/Documentos/C#/Code/Reverse/bin/Debug/net5.0/Reverse.pdb
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.dll
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/ref/Reverse.dll
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.pdb
+/home/akira/Documentos/C#/Code/Reverse/obj/Debug/net5.0/Reverse.genruntimeconfig.cache

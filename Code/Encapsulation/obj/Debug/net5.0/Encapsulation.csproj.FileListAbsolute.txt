@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/Encapsulation
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/Encapsulation.deps.json
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/Encapsulation.dll
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/ref/Encapsulation.dll
+/home/akira/Documentos/C#/Code/Encapsulation/bin/Debug/net5.0/Encapsulation.pdb
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.dll
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/ref/Encapsulation.dll
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.pdb
+/home/akira/Documentos/C#/Code/Encapsulation/obj/Debug/net5.0/Encapsulation.genruntimeconfig.cache

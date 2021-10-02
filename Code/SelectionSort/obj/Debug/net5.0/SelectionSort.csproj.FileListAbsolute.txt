@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/SelectionSort
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/SelectionSort.deps.json
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/SelectionSort.runtimeconfig.json
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/SelectionSort.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/SelectionSort.dll
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/ref/SelectionSort.dll
+/home/akira/Documentos/C#/Code/SelectionSort/bin/Debug/net5.0/SelectionSort.pdb
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.dll
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/ref/SelectionSort.dll
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.pdb
+/home/akira/Documentos/C#/Code/SelectionSort/obj/Debug/net5.0/SelectionSort.genruntimeconfig.cache

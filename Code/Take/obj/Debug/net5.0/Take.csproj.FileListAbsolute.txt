@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/Take
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/Take.deps.json
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/Take.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/Take.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/Take.dll
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/ref/Take.dll
+/home/akira/Documentos/C#/Code/Take/bin/Debug/net5.0/Take.pdb
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.dll
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/ref/Take.dll
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.pdb
+/home/akira/Documentos/C#/Code/Take/obj/Debug/net5.0/Take.genruntimeconfig.cache

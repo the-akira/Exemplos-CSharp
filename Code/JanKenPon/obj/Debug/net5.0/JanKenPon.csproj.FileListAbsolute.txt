@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/JanKenPon
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/JanKenPon.deps.json
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/JanKenPon.runtimeconfig.json
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/JanKenPon.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/JanKenPon.dll
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/ref/JanKenPon.dll
+/home/akira/Documentos/C#/Code/JanKenPon/bin/Debug/net5.0/JanKenPon.pdb
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.dll
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/ref/JanKenPon.dll
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.pdb
+/home/akira/Documentos/C#/Code/JanKenPon/obj/Debug/net5.0/JanKenPon.genruntimeconfig.cache

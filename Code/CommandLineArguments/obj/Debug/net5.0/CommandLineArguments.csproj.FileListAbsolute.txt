@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/CommandLineArguments
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/CommandLineArguments.deps.json
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/CommandLineArguments.runtimeconfig.json
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/CommandLineArguments.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/CommandLineArguments.dll
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/ref/CommandLineArguments.dll
+/home/akira/Documentos/C#/Code/CommandLineArguments/bin/Debug/net5.0/CommandLineArguments.pdb
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.dll
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/ref/CommandLineArguments.dll
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.pdb
+/home/akira/Documentos/C#/Code/CommandLineArguments/obj/Debug/net5.0/CommandLineArguments.genruntimeconfig.cache

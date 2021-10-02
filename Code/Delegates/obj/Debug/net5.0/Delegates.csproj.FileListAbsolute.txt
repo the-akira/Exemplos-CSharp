@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/Delegates
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/Delegates.deps.json
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/Delegates.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/Delegates.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/Delegates.dll
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/ref/Delegates.dll
+/home/akira/Documentos/C#/Code/Delegates/bin/Debug/net5.0/Delegates.pdb
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.dll
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/ref/Delegates.dll
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.pdb
+/home/akira/Documentos/C#/Code/Delegates/obj/Debug/net5.0/Delegates.genruntimeconfig.cache

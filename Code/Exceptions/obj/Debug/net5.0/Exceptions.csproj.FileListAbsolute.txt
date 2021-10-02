@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/Exceptions
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/ref/Exceptions.dll
+/home/akira/Documentos/C#/Code/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/home/akira/Documentos/C#/Code/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/Where
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/Where.deps.json
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/Where.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/Where.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/Where.dll
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/ref/Where.dll
+/home/akira/Documentos/C#/Code/Where/bin/Debug/net5.0/Where.pdb
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.dll
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/ref/Where.dll
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.pdb
+/home/akira/Documentos/C#/Code/Where/obj/Debug/net5.0/Where.genruntimeconfig.cache

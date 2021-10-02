@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ScientificNotation
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ScientificNotation.deps.json
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ScientificNotation.runtimeconfig.json
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ScientificNotation.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ScientificNotation.dll
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ref/ScientificNotation.dll
+/home/akira/Documentos/C#/Code/ScientificNotation/bin/Debug/net5.0/ScientificNotation.pdb
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.dll
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ref/ScientificNotation.dll
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.pdb
+/home/akira/Documentos/C#/Code/ScientificNotation/obj/Debug/net5.0/ScientificNotation.genruntimeconfig.cache

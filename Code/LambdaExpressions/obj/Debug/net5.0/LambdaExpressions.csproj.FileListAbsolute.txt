@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.deps.json
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.runtimeconfig.json
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.dll
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/ref/LambdaExpressions.dll
+/home/akira/Documentos/C#/Code/LambdaExpressions/bin/Debug/net5.0/LambdaExpressions.pdb
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.dll
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/ref/LambdaExpressions.dll
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.pdb
+/home/akira/Documentos/C#/Code/LambdaExpressions/obj/Debug/net5.0/LambdaExpressions.genruntimeconfig.cache

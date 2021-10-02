@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/Repeat
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/Repeat.deps.json
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/Repeat.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/Repeat.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/Repeat.dll
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/ref/Repeat.dll
+/home/akira/Documentos/C#/Code/Repeat/bin/Debug/net5.0/Repeat.pdb
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.dll
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/ref/Repeat.dll
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.pdb
+/home/akira/Documentos/C#/Code/Repeat/obj/Debug/net5.0/Repeat.genruntimeconfig.cache

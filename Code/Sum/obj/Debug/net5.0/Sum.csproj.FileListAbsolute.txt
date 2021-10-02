@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/Sum
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/Sum.deps.json
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/Sum.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/Sum.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/Sum.dll
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/ref/Sum.dll
+/home/akira/Documentos/C#/Code/Sum/bin/Debug/net5.0/Sum.pdb
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.dll
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/ref/Sum.dll
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.pdb
+/home/akira/Documentos/C#/Code/Sum/obj/Debug/net5.0/Sum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/Range
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/Range.deps.json
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/Range.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/Range.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/Range.dll
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/ref/Range.dll
+/home/akira/Documentos/C#/Code/Range/bin/Debug/net5.0/Range.pdb
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.dll
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/ref/Range.dll
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.pdb
+/home/akira/Documentos/C#/Code/Range/obj/Debug/net5.0/Range.genruntimeconfig.cache

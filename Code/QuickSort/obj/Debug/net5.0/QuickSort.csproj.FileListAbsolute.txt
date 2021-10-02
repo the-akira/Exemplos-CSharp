@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/QuickSort
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/QuickSort.deps.json
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/QuickSort.runtimeconfig.json
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/QuickSort.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/QuickSort.dll
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/ref/QuickSort.dll
+/home/akira/Documentos/C#/Code/QuickSort/bin/Debug/net5.0/QuickSort.pdb
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.dll
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/ref/QuickSort.dll
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.pdb
+/home/akira/Documentos/C#/Code/QuickSort/obj/Debug/net5.0/QuickSort.genruntimeconfig.cache

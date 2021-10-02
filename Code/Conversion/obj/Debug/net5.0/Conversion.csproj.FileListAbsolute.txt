@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/Conversion
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/Conversion.deps.json
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/Conversion.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/Conversion.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/Conversion.dll
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/ref/Conversion.dll
+/home/akira/Documentos/C#/Code/Conversion/bin/Debug/net5.0/Conversion.pdb
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.dll
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/ref/Conversion.dll
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.pdb
+/home/akira/Documentos/C#/Code/Conversion/obj/Debug/net5.0/Conversion.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ReadWriteFile
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ReadWriteFile.deps.json
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ReadWriteFile.runtimeconfig.json
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ReadWriteFile.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ReadWriteFile.dll
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ref/ReadWriteFile.dll
+/home/akira/Documentos/C#/Code/ReadWriteFile/bin/Debug/net5.0/ReadWriteFile.pdb
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.dll
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ref/ReadWriteFile.dll
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.pdb
+/home/akira/Documentos/C#/Code/ReadWriteFile/obj/Debug/net5.0/ReadWriteFile.genruntimeconfig.cache

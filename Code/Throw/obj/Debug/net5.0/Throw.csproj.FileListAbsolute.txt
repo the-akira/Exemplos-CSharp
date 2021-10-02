@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/Throw
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/Throw.deps.json
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/Throw.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/Throw.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/Throw.dll
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/ref/Throw.dll
+/home/akira/Documentos/C#/Code/Throw/bin/Debug/net5.0/Throw.pdb
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.dll
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/ref/Throw.dll
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.pdb
+/home/akira/Documentos/C#/Code/Throw/obj/Debug/net5.0/Throw.genruntimeconfig.cache

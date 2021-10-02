@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/WhileLoops
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/WhileLoops.deps.json
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.json
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/WhileLoops.dll
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/ref/WhileLoops.dll
+/home/akira/Documentos/C#/Code/WhileLoops/bin/Debug/net5.0/WhileLoops.pdb
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.dll
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/ref/WhileLoops.dll
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.pdb
+/home/akira/Documentos/C#/Code/WhileLoops/obj/Debug/net5.0/WhileLoops.genruntimeconfig.cache

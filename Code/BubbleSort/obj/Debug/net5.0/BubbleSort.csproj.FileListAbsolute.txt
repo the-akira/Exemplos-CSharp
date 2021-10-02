@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/BubbleSort
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/BubbleSort.deps.json
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/BubbleSort.runtimeconfig.json
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/BubbleSort.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/BubbleSort.dll
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/ref/BubbleSort.dll
+/home/akira/Documentos/C#/Code/BubbleSort/bin/Debug/net5.0/BubbleSort.pdb
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.dll
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/ref/BubbleSort.dll
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.pdb
+/home/akira/Documentos/C#/Code/BubbleSort/obj/Debug/net5.0/BubbleSort.genruntimeconfig.cache

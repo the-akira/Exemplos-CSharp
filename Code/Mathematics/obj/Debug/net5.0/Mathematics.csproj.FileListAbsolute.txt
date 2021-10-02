@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/Mathematics
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/Mathematics.deps.json
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/Mathematics.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/Mathematics.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/Mathematics.dll
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/ref/Mathematics.dll
+/home/akira/Documentos/C#/Code/Mathematics/bin/Debug/net5.0/Mathematics.pdb
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.dll
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/ref/Mathematics.dll
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.pdb
+/home/akira/Documentos/C#/Code/Mathematics/obj/Debug/net5.0/Mathematics.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/DateTime
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/DateTime.deps.json
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/DateTime.runtimeconfig.json
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/DateTime.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/DateTime.dll
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/ref/DateTime.dll
+/home/akira/Documentos/C#/Code/DateTime/bin/Debug/net5.0/DateTime.pdb
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.dll
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/ref/DateTime.dll
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.pdb
+/home/akira/Documentos/C#/Code/DateTime/obj/Debug/net5.0/DateTime.genruntimeconfig.cache

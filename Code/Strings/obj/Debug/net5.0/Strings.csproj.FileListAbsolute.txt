@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/Strings
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/Strings.deps.json
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/Strings.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/Strings.dll
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/ref/Strings.dll
+/home/akira/Documentos/C#/Code/Strings/bin/Debug/net5.0/Strings.pdb
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.dll
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/ref/Strings.dll
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.pdb
+/home/akira/Documentos/C#/Code/Strings/obj/Debug/net5.0/Strings.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/Random
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/Random.deps.json
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/Random.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/Random.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/Random.dll
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/ref/Random.dll
+/home/akira/Documentos/C#/Code/Random/bin/Debug/net5.0/Random.pdb
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.dll
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/ref/Random.dll
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.pdb
+/home/akira/Documentos/C#/Code/Random/obj/Debug/net5.0/Random.genruntimeconfig.cache

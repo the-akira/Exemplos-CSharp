@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/Cast
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/Cast.deps.json
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/Cast.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/Cast.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/Cast.dll
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/ref/Cast.dll
+/home/akira/Documentos/C#/Code/Cast/bin/Debug/net5.0/Cast.pdb
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.dll
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/ref/Cast.dll
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.pdb
+/home/akira/Documentos/C#/Code/Cast/obj/Debug/net5.0/Cast.genruntimeconfig.cache

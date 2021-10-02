@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/MinMax
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/MinMax.deps.json
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/MinMax.runtimeconfig.json
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/MinMax.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/MinMax.dll
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/ref/MinMax.dll
+/home/akira/Documentos/C#/Code/MinMax/bin/Debug/net5.0/MinMax.pdb
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.dll
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/ref/MinMax.dll
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.pdb
+/home/akira/Documentos/C#/Code/MinMax/obj/Debug/net5.0/MinMax.genruntimeconfig.cache

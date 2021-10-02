@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ElementAt
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ElementAt.deps.json
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ElementAt.runtimeconfig.json
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ElementAt.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ElementAt.dll
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ref/ElementAt.dll
+/home/akira/Documentos/C#/Code/ElementAt/bin/Debug/net5.0/ElementAt.pdb
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.dll
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ref/ElementAt.dll
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.pdb
+/home/akira/Documentos/C#/Code/ElementAt/obj/Debug/net5.0/ElementAt.genruntimeconfig.cache

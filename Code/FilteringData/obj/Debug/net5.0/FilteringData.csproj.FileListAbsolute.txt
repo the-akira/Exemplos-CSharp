@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/FilteringData
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/FilteringData.deps.json
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/FilteringData.runtimeconfig.json
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/FilteringData.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/FilteringData.dll
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/ref/FilteringData.dll
+/home/akira/Documentos/C#/Code/FilteringData/bin/Debug/net5.0/FilteringData.pdb
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.dll
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/ref/FilteringData.dll
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.pdb
+/home/akira/Documentos/C#/Code/FilteringData/obj/Debug/net5.0/FilteringData.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ForLoops
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ForLoops.deps.json
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.json
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ForLoops.dll
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ref/ForLoops.dll
+/home/akira/Documentos/C#/Code/ForLoops/bin/Debug/net5.0/ForLoops.pdb
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.dll
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ref/ForLoops.dll
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.pdb
+/home/akira/Documentos/C#/Code/ForLoops/obj/Debug/net5.0/ForLoops.genruntimeconfig.cache

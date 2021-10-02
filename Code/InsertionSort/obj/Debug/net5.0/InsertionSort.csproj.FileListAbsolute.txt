@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/InsertionSort
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/InsertionSort.deps.json
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/InsertionSort.runtimeconfig.json
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/InsertionSort.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/InsertionSort.dll
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/ref/InsertionSort.dll
+/home/akira/Documentos/C#/Code/InsertionSort/bin/Debug/net5.0/InsertionSort.pdb
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.dll
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/ref/InsertionSort.dll
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.pdb
+/home/akira/Documentos/C#/Code/InsertionSort/obj/Debug/net5.0/InsertionSort.genruntimeconfig.cache

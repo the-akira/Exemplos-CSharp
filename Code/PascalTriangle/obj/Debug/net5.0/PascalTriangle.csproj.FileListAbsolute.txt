@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/PascalTriangle
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/PascalTriangle.deps.json
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/PascalTriangle.runtimeconfig.json
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/PascalTriangle.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/PascalTriangle.dll
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/ref/PascalTriangle.dll
+/home/akira/Documentos/C#/Code/PascalTriangle/bin/Debug/net5.0/PascalTriangle.pdb
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.dll
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/ref/PascalTriangle.dll
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.pdb
+/home/akira/Documentos/C#/Code/PascalTriangle/obj/Debug/net5.0/PascalTriangle.genruntimeconfig.cache

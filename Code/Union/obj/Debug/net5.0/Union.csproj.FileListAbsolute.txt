@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/Union
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/Union.deps.json
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/Union.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/Union.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/Union.dll
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/ref/Union.dll
+/home/akira/Documentos/C#/Code/Union/bin/Debug/net5.0/Union.pdb
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.dll
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/ref/Union.dll
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.pdb
+/home/akira/Documentos/C#/Code/Union/obj/Debug/net5.0/Union.genruntimeconfig.cache

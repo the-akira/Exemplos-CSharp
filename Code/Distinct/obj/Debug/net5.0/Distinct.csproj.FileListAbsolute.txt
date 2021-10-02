@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/Distinct
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/Distinct.deps.json
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/Distinct.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/Distinct.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/Distinct.dll
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/ref/Distinct.dll
+/home/akira/Documentos/C#/Code/Distinct/bin/Debug/net5.0/Distinct.pdb
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.dll
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/ref/Distinct.dll
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.pdb
+/home/akira/Documentos/C#/Code/Distinct/obj/Debug/net5.0/Distinct.genruntimeconfig.cache

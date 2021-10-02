@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/IndentString
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/IndentString.deps.json
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/IndentString.runtimeconfig.json
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/IndentString.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/IndentString.dll
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/ref/IndentString.dll
+/home/akira/Documentos/C#/Code/IndentString/bin/Debug/net5.0/IndentString.pdb
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.dll
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/ref/IndentString.dll
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.pdb
+/home/akira/Documentos/C#/Code/IndentString/obj/Debug/net5.0/IndentString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/Zip
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/Zip.deps.json
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/Zip.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/Zip.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/Zip.dll
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/ref/Zip.dll
+/home/akira/Documentos/C#/Code/Zip/bin/Debug/net5.0/Zip.pdb
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.dll
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/ref/Zip.dll
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.pdb
+/home/akira/Documentos/C#/Code/Zip/obj/Debug/net5.0/Zip.genruntimeconfig.cache

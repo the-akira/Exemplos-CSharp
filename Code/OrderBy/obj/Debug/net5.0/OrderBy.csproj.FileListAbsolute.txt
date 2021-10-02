@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/OrderBy
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/OrderBy.deps.json
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/OrderBy.runtimeconfig.json
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/OrderBy.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/OrderBy.dll
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/ref/OrderBy.dll
+/home/akira/Documentos/C#/Code/OrderBy/bin/Debug/net5.0/OrderBy.pdb
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.dll
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/ref/OrderBy.dll
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.pdb
+/home/akira/Documentos/C#/Code/OrderBy/obj/Debug/net5.0/OrderBy.genruntimeconfig.cache

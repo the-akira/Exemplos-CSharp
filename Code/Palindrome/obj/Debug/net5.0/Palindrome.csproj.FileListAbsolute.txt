@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/Palindrome
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/Palindrome.deps.json
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/Palindrome.dll
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/ref/Palindrome.dll
+/home/akira/Documentos/C#/Code/Palindrome/bin/Debug/net5.0/Palindrome.pdb
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.dll
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/ref/Palindrome.dll
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.pdb
+/home/akira/Documentos/C#/Code/Palindrome/obj/Debug/net5.0/Palindrome.genruntimeconfig.cache

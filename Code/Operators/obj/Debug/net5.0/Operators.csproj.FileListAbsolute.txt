@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/Operators
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/Operators.deps.json
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/Operators.dll
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/ref/Operators.dll
+/home/akira/Documentos/C#/Code/Operators/bin/Debug/net5.0/Operators.pdb
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.dll
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/ref/Operators.dll
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.pdb
+/home/akira/Documentos/C#/Code/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

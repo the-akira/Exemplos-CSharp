@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/LinearSearch
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/LinearSearch.deps.json
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/LinearSearch.runtimeconfig.json
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/LinearSearch.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/LinearSearch.dll
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/ref/LinearSearch.dll
+/home/akira/Documentos/C#/Code/LinearSearch/bin/Debug/net5.0/LinearSearch.pdb
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.dll
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/ref/LinearSearch.dll
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.pdb
+/home/akira/Documentos/C#/Code/LinearSearch/obj/Debug/net5.0/LinearSearch.genruntimeconfig.cache

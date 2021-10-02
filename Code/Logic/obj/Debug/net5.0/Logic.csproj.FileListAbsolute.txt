@@ -1,0 +1,16 @@
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/Logic
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/Logic.deps.json
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/Logic.runtimeconfig.json
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/Logic.runtimeconfig.dev.json
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/Logic.dll
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/ref/Logic.dll
+/home/akira/Documentos/C#/Code/Logic/bin/Debug/net5.0/Logic.pdb
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.csproj.AssemblyReference.cache
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.AssemblyInfoInputs.cache
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.AssemblyInfo.cs
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.csproj.CoreCompileInputs.cache
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.dll
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/ref/Logic.dll
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.pdb
+/home/akira/Documentos/C#/Code/Logic/obj/Debug/net5.0/Logic.genruntimeconfig.cache
