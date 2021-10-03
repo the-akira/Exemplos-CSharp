@@ -5,7 +5,8 @@
 ## Sobre a Linguagem C#
 
 - [Introdução](https://github.com/the-akira/ExemplosCSharp/blob/master/C%23.pdf)
-- [Documentação](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Documentação C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Documentação .NET](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
 - [Exemplos de Aplicações](https://www.csharp-console-examples.com/)
 - [Exemplos Diversos](https://www.dotnetperls.com/)
 - [CheatSheet](https://www.codecademy.com/learn/learn-c-sharp/modules/csharp-hello-world/cheatsheet)
