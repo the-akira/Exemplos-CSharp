@@ -35,12 +35,12 @@ namespace Exceptions
 
             try
             {
-              int[] numbers = {1, 2, 3};
-              Console.WriteLine(numbers[3]);
+                int[] numbers = {1, 2, 3};
+                Console.WriteLine(numbers[3]);
             }
             catch (Exception e)
             {
-              Console.WriteLine(e.Message);
+                Console.WriteLine(e.Message);
             }
         }
     }
